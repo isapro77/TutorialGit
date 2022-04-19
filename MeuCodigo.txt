@@ -1,4 +1,4 @@
-Meu nome é Isael
+Meu nome é Isael Rodrigues de Freitas;.
 Teste de Git e GitHub
 Minha nova versão do git teste
 Verificando a versão 6. Bora
